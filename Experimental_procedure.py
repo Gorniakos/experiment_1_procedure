@@ -10,7 +10,6 @@ import codecs
 import pandas as pd
 import numpy as np
 
-
 def main():
     #Loading config file
     conf: Dict = yaml.load(open('config.yaml', encoding='utf-8'), Loader=yaml.SafeLoader)
