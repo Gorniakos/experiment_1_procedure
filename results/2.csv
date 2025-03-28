@@ -1,0 +1,7 @@
+PART_ID,Study time,Block_number,Trial_number,Correct_key,Key_pressed,Reaction_time,Stim_name,Context,Target,Target_type,Accuracy
+2,2025-03-28_14:08:59.346736,1,1,l,l,0.7997769159264863,image2.png,plaza,wiaderko,item,1
+2,2025-03-28_14:08:59.346736,1,2,l,l,0.5343357911333442,image3.png,pokoj,fotel,item,1
+2,2025-03-28_14:08:59.346736,1,3,a,a,0.3212374169379473,image1.png,plaza,kuna,animal,1
+2,2025-03-28_14:08:59.346736,2,1,l,l,0.4533738747704774,image2.png,plaza,wiaderko,item,1
+2,2025-03-28_14:08:59.346736,2,2,l,No response,-1,image3.png,pokoj,fotel,item,-1
+2,2025-03-28_14:08:59.346736,2,3,a,No response,-1,image1.png,plaza,kuna,animal,-1
